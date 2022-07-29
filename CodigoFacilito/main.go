@@ -3,7 +3,7 @@ package main
 import "fmt"
 import "reflect"
 
-/*
+
 //imprimir una cadena de caracteres
 func main() {
 	fmt.Println("Hello World")
@@ -188,4 +188,3 @@ func main() {
 	fmt.Printf("Hola %s\n tu edad es %d\n con tu peso: %f\n",nombre, edad,peso)
 }
 
-*/
