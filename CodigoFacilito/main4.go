@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-/*
+
 type Operacion func(balance,cantidad int) int
 
 //funciones
@@ -190,7 +190,7 @@ func main(){
 		fmt.Println("Resultado: ", resultado)
 	}
 }
-*/
+
 //funcio recover
 func main() {
 	defer func() {
