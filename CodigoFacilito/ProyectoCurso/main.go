@@ -62,8 +62,12 @@ func main() {
 		fmt.Println("Opcion no valida")
 		}
 	}
+
+
 }
 
 
 //Que depresion me dio seguir un proyecto con programacion estructurada ajajaj 
 //este es el ultimo commit que hago al curso de codigofacilito mejor hare un proyecto real y luego hare el curso de platzi.
+
+
